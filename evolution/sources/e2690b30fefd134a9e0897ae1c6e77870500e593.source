@@ -1,0 +1,14 @@
+[Data Source]
+DisplayName=dominik.schlack@netcologne-its.de
+Enabled=true
+Parent=43375a9177bafb589c98575a0983c763286bcf97
+
+[Refresh]
+Enabled=true
+IntervalMinutes=5
+
+[Mail Account]
+BackendName=ews
+IdentityUid=25928c175860fc18c6ece307bed1174a809dce8c
+ArchiveFolder=
+NeedsInitialSetup=false

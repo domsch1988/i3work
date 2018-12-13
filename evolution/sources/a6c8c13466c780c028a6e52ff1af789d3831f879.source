@@ -1,0 +1,7 @@
+[Data Source]
+DisplayName=dominik.schlack@netcologne-its.de
+Enabled=true
+Parent=43375a9177bafb589c98575a0983c763286bcf97
+
+[Mail Transport]
+BackendName=ews

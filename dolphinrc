@@ -1,0 +1,38 @@
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+GlobalViewProps=true
+Version=200
+ViewPropsTimestamp=2018,12,7,10,20,25
+
+[IconsMode]
+FontWeight=50
+
+[KPropertiesDialog]
+Height 1080=478
+Width 1920=643
+
+[MainWindow]
+Height 1080=1006
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAD7vwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAAAAAD7gAAAEYA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAAGLAAAA+4AAAAEAAAABAAAAAgAAAAI/AAAAAIAAAABAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAwAAAAD/////AAAAAAAAAAAAAAACAAAAAA==
+ToolBarsMovable=Disabled
+Width 1920=1876
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[Open-with settings]
+CompletionMode=1
+History=ark,kate
+
+[PreviewSettings]
+Plugins=htmlthumbnail,exrthumbnail,windowsexethumbnail,jpegthumbnail,kraorathumbnail,audiothumbnail,windowsimagethumbnail,comicbookthumbnail,rawthumbnail,fontthumbnail,directorythumbnail,djvuthumbnail,gsthumbnail,ffmpegthumbs,imagethumbnail,svgthumbnail
+
+[SettingsDialog]
+Height 1080=493
+Width 1920=694

@@ -1,0 +1,350 @@
+[2018-12-11 08:44:10.416] [exthost] [info] extension host started
+[2018-12-11 08:44:10.451] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:44:10.451] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:44:10.458] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:44:10.458] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:44:10.474] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:44:10.474] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:44:10.575] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:44:10.575] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:44:10.585] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:44:10.585] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:44:10.590] [exthost] [info] eager extensions activated
+[2018-12-11 08:45:01.275] [exthost] [info] extension host started
+[2018-12-11 08:45:01.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:45:01.315] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:45:01.322] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:45:01.322] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:45:01.352] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:45:01.352] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:45:01.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:45:01.491] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:45:01.499] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:45:01.499] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:45:01.502] [exthost] [info] eager extensions activated
+[2018-12-11 08:45:19.583] [exthost] [info] extension host started
+[2018-12-11 08:45:19.621] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:45:19.621] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:45:19.634] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:45:19.634] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:45:19.654] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:45:19.654] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:45:19.834] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:45:19.834] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:45:19.852] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:45:19.852] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:45:19.857] [exthost] [info] eager extensions activated
+[2018-12-11 08:45:41.187] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-11 08:45:41.188] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2018-12-11 08:45:41.197] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-11 08:45:41.197] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2018-12-11 08:45:41.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-11 08:45:41.261] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2018-12-11 08:46:40.607] [exthost] [info] extension host started
+[2018-12-11 08:46:40.664] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:46:40.664] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:46:40.670] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:46:40.670] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:46:40.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:46:40.700] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:46:40.845] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:46:40.845] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:46:40.865] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:46:40.865] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:46:40.868] [exthost] [info] eager extensions activated
+[2018-12-11 08:47:15.142] [exthost] [info] extension host started
+[2018-12-11 08:47:15.184] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:47:15.184] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:47:15.193] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:47:15.193] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:47:15.216] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:47:15.216] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:47:15.370] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:47:15.370] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:47:15.390] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:47:15.391] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:47:15.396] [exthost] [info] eager extensions activated
+[2018-12-11 08:47:50.396] [exthost] [info] extension host started
+[2018-12-11 08:47:50.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:47:50.439] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:47:50.449] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:47:50.449] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:47:50.477] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:47:50.477] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:47:50.660] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:47:50.660] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:47:50.684] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:47:50.685] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:47:50.694] [exthost] [info] eager extensions activated
+[2018-12-11 08:48:16.277] [exthost] [info] extension host started
+[2018-12-11 08:48:16.321] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:48:16.321] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:48:16.334] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:48:16.334] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:48:16.363] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:48:16.363] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:48:16.495] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:48:16.495] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:48:16.508] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:48:16.508] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:48:16.514] [exthost] [info] eager extensions activated
+[2018-12-11 08:48:30.445] [exthost] [info] extension host started
+[2018-12-11 08:48:30.484] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:48:30.485] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:48:30.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:48:30.491] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:48:30.513] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:48:30.513] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:48:30.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:48:30.659] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:48:30.677] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:48:30.677] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:48:30.686] [exthost] [info] eager extensions activated
+[2018-12-11 08:49:08.229] [exthost] [info] extension host started
+[2018-12-11 08:49:08.279] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:49:08.279] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:49:08.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:49:08.293] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:49:08.316] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:49:08.316] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:49:08.473] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:49:08.473] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:49:08.488] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:49:08.488] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:49:08.495] [exthost] [info] eager extensions activated
+[2018-12-11 08:49:26.830] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-11 08:49:26.830] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2018-12-11 08:49:26.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-11 08:49:26.848] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2018-12-11 08:49:26.998] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-11 08:49:26.998] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2018-12-11 08:49:43.646] [exthost] [info] extension host started
+[2018-12-11 08:49:43.683] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:49:43.683] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:49:43.695] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:49:43.695] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:49:43.720] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:49:43.720] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:49:43.889] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:49:43.889] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:49:43.912] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:49:43.912] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:49:43.920] [exthost] [info] eager extensions activated
+[2018-12-11 08:53:08.463] [exthost] [info] extension host started
+[2018-12-11 08:53:08.520] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:53:08.520] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:53:08.531] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:53:08.531] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:53:08.565] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:53:08.565] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:53:08.788] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:53:08.788] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:53:08.809] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:53:08.810] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:53:08.822] [exthost] [info] eager extensions activated
+[2018-12-11 08:54:08.800] [exthost] [info] extension host started
+[2018-12-11 08:54:08.862] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:54:08.863] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:54:08.874] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:54:08.874] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:54:08.909] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:54:08.909] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:54:09.124] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:54:09.124] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:54:09.145] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:54:09.145] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:54:09.154] [exthost] [info] eager extensions activated
+[2018-12-11 08:54:38.653] [exthost] [info] extension host started
+[2018-12-11 08:54:38.733] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:54:38.734] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:54:38.752] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:54:38.752] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:54:38.809] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:54:38.809] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:54:39.027] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:54:39.027] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:54:39.059] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:54:39.059] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:54:39.068] [exthost] [info] eager extensions activated
+[2018-12-11 08:55:38.035] [exthost] [info] extension host started
+[2018-12-11 08:55:38.106] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:55:38.107] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:55:38.119] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:55:38.119] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:55:38.164] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:55:38.164] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:55:38.371] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:55:38.371] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:55:38.398] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:55:38.399] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:55:38.405] [exthost] [info] eager extensions activated
+[2018-12-11 08:56:03.115] [exthost] [info] extension host started
+[2018-12-11 08:56:03.197] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:56:03.198] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 08:56:03.213] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:56:03.213] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 08:56:03.245] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:56:03.245] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 08:56:03.470] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:56:03.470] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 08:56:03.489] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 08:56:03.489] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 08:56:03.495] [exthost] [info] eager extensions activated
+[2018-12-11 09:01:22.432] [exthost] [info] extension host started
+[2018-12-11 09:01:22.503] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:01:22.503] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 09:01:22.525] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:01:22.525] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 09:01:22.576] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:01:22.576] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 09:01:22.820] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:01:22.820] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 09:01:22.841] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:01:22.842] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 09:01:22.848] [exthost] [info] eager extensions activated
+[2018-12-11 09:02:13.805] [exthost] [info] extension host started
+[2018-12-11 09:02:13.868] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:02:13.868] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 09:02:13.878] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:02:13.878] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 09:02:13.913] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:02:13.913] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 09:02:14.156] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:02:14.156] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 09:02:14.178] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:02:14.178] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 09:02:14.191] [exthost] [info] eager extensions activated
+[2018-12-11 09:02:49.874] [exthost] [info] extension host started
+[2018-12-11 09:02:49.969] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:02:49.969] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 09:02:49.979] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:02:49.979] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 09:02:50.013] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:02:50.013] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 09:02:50.240] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:02:50.240] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 09:02:50.260] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:02:50.260] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 09:02:50.264] [exthost] [info] eager extensions activated
+[2018-12-11 09:03:30.253] [exthost] [info] extension host started
+[2018-12-11 09:03:30.309] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:03:30.309] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 09:03:30.320] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:03:30.320] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 09:03:30.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:03:30.375] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 09:03:30.708] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:03:30.708] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 09:03:30.730] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:03:30.730] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 09:03:30.736] [exthost] [info] eager extensions activated
+[2018-12-11 09:03:55.512] [exthost] [info] extension host started
+[2018-12-11 09:03:55.572] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:03:55.572] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 09:03:55.580] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:03:55.580] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 09:03:55.618] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:03:55.618] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 09:03:55.866] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:03:55.866] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 09:03:55.887] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:03:55.887] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 09:03:55.893] [exthost] [info] eager extensions activated
+[2018-12-11 09:04:44.355] [exthost] [info] extension host started
+[2018-12-11 09:04:44.434] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:04:44.435] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 09:04:44.453] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:04:44.453] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 09:04:44.495] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:04:44.495] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 09:04:44.722] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:04:44.722] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 09:04:44.744] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:04:44.744] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 09:04:44.749] [exthost] [info] eager extensions activated
+[2018-12-11 09:07:22.238] [exthost] [info] extension host started
+[2018-12-11 09:07:22.282] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:07:22.282] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 09:07:22.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:07:22.293] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 09:07:22.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:07:22.330] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 09:07:22.529] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:07:22.529] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 09:07:22.559] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:07:22.559] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 09:07:22.570] [exthost] [info] eager extensions activated
+[2018-12-11 09:08:11.486] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-11 09:08:11.486] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2018-12-11 09:08:11.493] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-11 09:08:11.493] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2018-12-11 09:08:11.546] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-11 09:08:11.546] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2018-12-11 09:10:17.587] [exthost] [info] extension host started
+[2018-12-11 09:10:17.646] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:10:17.646] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 09:10:17.664] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:10:17.664] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 09:10:17.696] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:10:17.696] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 09:10:17.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:10:17.867] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 09:10:17.882] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:10:17.882] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 09:10:17.893] [exthost] [info] eager extensions activated
+[2018-12-11 09:11:35.672] [exthost] [info] extension host started
+[2018-12-11 09:11:35.729] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:11:35.729] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 09:11:35.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:11:35.737] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 09:11:35.768] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:11:35.768] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 09:11:35.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:11:35.949] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 09:11:35.968] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:11:35.968] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 09:11:35.977] [exthost] [info] eager extensions activated
+[2018-12-11 09:12:11.600] [exthost] [info] extension host started
+[2018-12-11 09:12:11.650] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:12:11.650] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 09:12:11.666] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:12:11.666] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 09:12:11.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:12:11.700] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 09:12:11.900] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:12:11.900] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 09:12:11.916] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:12:11.916] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 09:12:11.927] [exthost] [info] eager extensions activated
+[2018-12-11 09:13:51.753] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-11 09:13:51.753] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2018-12-11 09:13:51.766] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-11 09:13:51.766] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2018-12-11 09:13:51.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-12-11 09:13:51.817] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2018-12-11 09:17:15.804] [exthost] [info] extension host started
+[2018-12-11 09:17:15.871] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:17:15.871] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 09:17:15.887] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:17:15.887] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 09:17:15.935] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:17:15.936] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 09:17:16.202] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:17:16.202] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 09:17:16.223] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:17:16.223] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 09:17:16.230] [exthost] [info] eager extensions activated
+[2018-12-11 09:17:30.863] [exthost] [info] extension host started
+[2018-12-11 09:17:30.940] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:17:30.941] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-11 09:17:30.951] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:17:30.951] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-11 09:17:30.995] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:17:30.995] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-11 09:17:31.242] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:17:31.242] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-11 09:17:31.268] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-12-11 09:17:31.268] [exthost] [info] ExtensionService#loadCommonJSModule /home/dominik/.vscode/extensions/be5invis.vscode-custom-css-3.0.1/src/extension
+[2018-12-11 09:17:31.280] [exthost] [info] eager extensions activated
+[2018-12-11 09:27:37.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2018-12-11 09:27:37.702] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain

@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "'FantasqueSansMono NF'",
+    "editor.fontLigatures": true,   
+    "vscode_custom_css.imports": [
+        "file:///home/dominik/Dokumente/styles.css"
+    ],
+    "editor.fontSize": 18,
+    "editor.fontWeight": "600"
+} 

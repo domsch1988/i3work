@@ -1,0 +1,54 @@
+[Data Source]
+DisplayName=dominik.schlack@netcologne-its.de
+Enabled=true
+Parent=
+
+[Offline]
+StaySynchronized=true
+
+[Authentication]
+Host=mx.haubnerdc.com
+Method=none
+Port=443
+ProxyUid=system-proxy
+RememberPassword=true
+User=dominik.schlack
+CredentialName=
+
+[Collection]
+BackendName=ews
+CalendarEnabled=true
+ContactsEnabled=true
+Identity=dominik.schlack
+MailEnabled=true
+CalendarUrl=
+ContactsUrl=
+
+[Security]
+Method=none
+
+[Ews Backend]
+FilterInbox=true
+StoreChangesInterval=3
+LimitByAge=false
+LimitUnit=years
+LimitValue=1
+CheckAll=true
+ListenNotifications=true
+Email=dominik.schlack@netcologne-its.de
+FilterJunk=false
+FilterJunkInbox=false
+GalUid=619ed259ed6bc575120de2f5ab885f126081969a
+Hosturl=https://mx.haubnerdc.com/EWS/Exchange.asmx
+Oaburl=https://mx.haubnerdc.com/OAB/f9e1431a-5c99-4794-939e-fdd4625ba17b/oab.xml
+OabOffline=true
+OalSelected=e88db89b-852f-43a6-95e0-6d2217d1651a:Haubner Adressen
+Timeout=120
+UseImpersonation=false
+ImpersonateUser=
+OverrideUserAgent=false
+UserAgent=Microsoft Office/14.0 (Windows NT ,5.1; Microsoft Outlook 14.0.4734; Pro)
+OverrideOauth2=false
+Oauth2Tenant=
+Oauth2ClientId=
+Oauth2RedirectUri=

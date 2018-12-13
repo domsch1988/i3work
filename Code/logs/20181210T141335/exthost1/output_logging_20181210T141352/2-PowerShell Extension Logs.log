@@ -1,0 +1,12 @@
+2018-12-10 14:13:52 [NORMAL] - Visual Studio Code v1.29.1 64-bit
+2018-12-10 14:13:52 [NORMAL] - PowerShell Extension v1.10.1
+2018-12-10 14:13:52 [NORMAL] - Operating System: Linux 64-bit
+2018-12-10 14:13:52 [NORMAL] - Path specified by 'powerShellExePath' setting - '' - not found, reverting to default PowerShell path.
+2018-12-10 14:13:52 [NORMAL] - Language server starting --
+2018-12-10 14:13:52 [NORMAL] -     exe: /usr/bin/pwsh
+2018-12-10 14:13:52 [NORMAL] -     args: /home/dominik/.vscode/extensions/ms-vscode.powershell-1.10.1/modules/PowerShellEditorServices/Start-EditorServices.ps1 -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '1.10.1' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath '/home/dominik/.vscode/extensions/ms-vscode.powershell-1.10.1/modules' -EnableConsoleRepl -LogLevel 'Normal' -LogPath '/home/dominik/.vscode/extensions/ms-vscode.powershell-1.10.1/logs/1544447632-c74b6bfd-5c2b-4d6a-a56e-10915c56771d1544447631746/EditorServices.log' -SessionDetailsPath '/home/dominik/.vscode/extensions/ms-vscode.powershell-1.10.1/sessions/PSES-VSCode-2151-876846' -FeatureFlags @()
+2018-12-10 14:13:53 [NORMAL] - powershell.exe terminated or terminal UI was closed
+2018-12-10 14:13:53 [NORMAL] - powershell.exe started, pid: 2326
+2018-12-10 14:15:53 [NORMAL] - Language server startup failed.
+2018-12-10 14:15:53 [ERROR] - The language service could not be started: 
+2018-12-10 14:15:53 [ERROR] - Timed out waiting for session file to appear.

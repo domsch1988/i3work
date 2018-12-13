@@ -1,0 +1,48 @@
+[Data Source]
+DisplayName=dominik.schlack@netcologne-its.de
+Enabled=true
+Parent=43375a9177bafb589c98575a0983c763286bcf97
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://e2690b30fefd134a9e0897ae1c6e77870500e593/Entw%c3%bcrfe
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+
+[Mail Identity]
+Address=dominik.schlack@netcologne-its.de
+Aliases=
+Name=Dominik Schlack
+Organization=Netcologne IT Services
+ReplyTo=dominik.schlack@netcologne-its.de
+SignatureUid=d46010cb1c592af8cc2b54842b426ef2db001214
+
+[Mail Submission]
+SentFolder=folder://e2690b30fefd134a9e0897ae1c6e77870500e593/Gesendete%20Elemente
+TransportUid=a6c8c13466c780c028a6e52ff1af789d3831f879
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Pretty Good Privacy (OpenPGP)]
+AlwaysTrust=false
+EncryptToSelf=true
+KeyId=
+SigningAlgorithm=
+SignByDefault=false
+EncryptByDefault=false
+PreferInline=false
+
+[Message Disposition Notifications]
+ResponsePolicy=ask
+
+[Secure MIME (S/MIME)]
+EncryptionCertificate=COMODO CA Limited ID von 
+EncryptByDefault=false
+EncryptToSelf=true
+SigningAlgorithm=
+SigningCertificate=COMODO CA Limited ID von 
+SignByDefault=true

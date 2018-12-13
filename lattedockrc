@@ -1,0 +1,33 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjIAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAABOAAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+Height 1080=527
+Width 1920=720
+
+[General]
+Number of Actions=0
+
+[PlasmaRunnerManager]
+LaunchCounts=2 services_org.kde.kcalc.desktop,3 services_fontinst.desktop,4 services_org.kde.kate.desktop,1 services_org.kde.spectacle.desktop,1 services_libreoffice-writer.desktop,1 services_sqlitebrowser.desktop,1 services_org.remmina.Remmina.desktop,6 services_vscode_vscode.desktop,2 services_fontforge.desktop,1 services_org.gnome.Evolution.desktop,3 services_org.qt-project.qtcreator.desktop,4 services_code.desktop,2 services_org.kde.konsole.desktop,3 services_org.kde.discover.desktop,2 services_org.kde.yakuake.desktop,2 services_kcm_fonts.desktop
+pluginWhiteList=services,shell,bookmarks,baloosearch,locations
+
+[ScreenConnectors]
+10=DP-2
+11=VGA-1
+12=DP-3
+
+[UniversalSettings]
+canDisableBorders=false
+currentLayout=Mein Profil
+downloadWindowSize=800,550
+lastNonAssignedLayout=Mein Profil
+launchers=
+layoutsColumnWidths=102,92,76,0
+layoutsWindowSize=700,551
+memoryUsage=0
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+unifiedGlobalShortcuts=true
+version=2

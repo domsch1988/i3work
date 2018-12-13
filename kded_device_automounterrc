@@ -1,0 +1,23 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/loop0]
+EverMounted=true
+Icon=application-vnd.snap
+LastNameSeen=core_6034.snap
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop1]
+EverMounted=true
+Icon=application-vnd.snap
+LastNameSeen=vscode_69.snap
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=EFI System Partition
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda2]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=238,0 GiB Festplatte
+LastSeenMounted=true
