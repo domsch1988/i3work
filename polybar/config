@@ -53,7 +53,7 @@ module-margin-right = 2
 font-0 = Roboto:pixelsize=12;2
 font-1 = MaterialDesignIcons:pixelsize=14;2
 
-modules-left = powermenu apt i3
+modules-left = powermenu i3
 modules-center = date
 modules-right = bt pulseaudio eth cpu memory wlan battery
 
@@ -103,9 +103,9 @@ module-margin-right = 2
 font-0 = Roboto:pixelsize=12;2
 font-1 = MaterialDesignIcons:pixelsize=14;2
 
-modules-left = powermenu apt i3
+modules-left = powermenu apt reddit i3
 modules-center = date
-modules-right = bt pulseaudio eth cpu memory wlan battery
+modules-right = nagios bt pulseaudio eth cpu memory wlan battery
 
 
 tray-position = right
@@ -153,7 +153,7 @@ module-margin-right = 2
 font-0 = Roboto:pixelsize=12;2
 font-1 = MaterialDesignIcons:pixelsize=14;2
 
-modules-left = powermenu apt i3
+modules-left = powermenu i3
 modules-center = date
 modules-right = bt pulseaudio eth cpu memory wlan battery
 
@@ -515,3 +515,15 @@ type = custom/script
 exec = ~/.config/polybar/scripts/bt.sh
 interval = 5
 click-left = ~/.config/polybar/scripts/bt_switch.sh
+
+[module/reddit]
+type = custom/script
+exec = ~/.config/polybar/scripts/reddit.sh
+interval = 60
+click-left = xdg-open https://reddit.com/message/inboxlick-left 
+
+[module/nagios]
+type = custom/script
+exec = ~/.config/polybar/scripts/nagios.sh
+interval = 10
+click-left = xdg-open https://nagios.haubnerdc.com/nagiosxi/includes/components/xicore/status.php?show=services\&servicestatustypes=28
